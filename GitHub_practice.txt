@@ -1,1 +1,2 @@
-I want to go through the whole Git workflow 
+I want to go through the whole Git workflow
+I add new row 
