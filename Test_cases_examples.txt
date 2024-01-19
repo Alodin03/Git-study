@@ -1,1 +1,8 @@
 Hi everyone!I`m here!
+check that we can add picture
+step to reproduse:
+1 Login as user
+2 click button Add picture
+3 select picture
+4 click ok
+Expected result:Picture is adding
