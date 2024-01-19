@@ -1,0 +1,9 @@
+we can`t add photo
+Step to reproduse
+1 Open site
+2 Log in
+3 Click add photo
+4 Select photo
+5 click ok
+Expected result: We added photo
+Actual result: We can`t add photo
